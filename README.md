@@ -78,5 +78,5 @@ MIT License - feel free to use for any purpose
 
 ## Contact
 
-[Your Name] - [email]  
+Fabian Steinmetz - fabian@uni.minerva.edu
 Developed during internship at Alpha Sophia
